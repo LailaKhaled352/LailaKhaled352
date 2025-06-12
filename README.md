@@ -18,5 +18,5 @@ I passionate about **AI, embedded systems, and biomedical technology**. I bridge
 `Django` `PostgreSQL` `React` `Git/GitHub`  
 
 ## Contact
-- 📧 **Email**: [Lailakhaled352@email.com](mailto:Lailakhaled352@email.com)  
+- 📧 **Email**: [Lailakhaled352@gmail.com](mailto:Lailakhaled352@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/lailak/](https://www.linkedin.com/in/lailak/)
