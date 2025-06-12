@@ -19,4 +19,4 @@ I passionate about **AI, embedded systems, and biomedical technology**. I bridge
 
 ## Contact
 - 📧 **Email**: [Lailakhaled352@gmail.com](mailto:Lailakhaled352@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/lailak/](https://www.linkedin.com/in/lailak/)
+- ![image](https://github.com/user-attachments/assets/a32c9aeb-0991-48ff-9df1-8a6d8b0bd13b)**LinkedIn**: [linkedin.com/in/lailak/](https://www.linkedin.com/in/lailak/)
