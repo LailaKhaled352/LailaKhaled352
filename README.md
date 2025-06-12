@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Laila Khaled
 
-<!--
-**LailaKhaled352/LailaKhaled352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Biomedical Engineering Student**  
+## About Me
+I passionate about **AI, embedded systems, and biomedical technology**. I bridge hardware and software to build innovative solutions.
 
-Here are some ideas to get you started:
+## Technical Skills  
+### **Programming**  
+`C` `C++` `Python` `Java` `JavaScript` `SQL`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **AI/Data Science**  
+`PyTorch` `OpenCV` `scikit-learn` `FSL` (Neuroimaging)  
+
+### **Embedded Systems**  
+`STM32` `Arduino` `Proteus` `GPIO/UART/I2C/SPI` `STM32CubeIDE`  
+
+### **Web & Tools**  
+`Django` `PostgreSQL` `React` `Git/GitHub`  
+
+## Contact
+- 📧 **Email**: [Lailakhaled352@email.com](mailto:Lailakhaled352@email.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/lailak/](https://www.linkedin.com/in/lailak/)
