@@ -10,7 +10,8 @@ My goal is to continue exploring these fields , find opportunities to contribute
 `C` `C++` `Python` `Java` `JavaScript` `SQL`  
 
 ### **Data Science & AI**  
-Core Domains: `Machine Learning`, `Deep Learning`, `Agentic AI`, `Computer Vision` 
+Core Domains: `Machine Learning`, `Deep Learning`, `Agentic AI`, `Computer Vision`
+
 Frameworks & Tools: `PyTorch, OpenCV`, `TensorFlow`, `scikit-learn`, `LangChain`
 
 ### **Software Engineering**  
@@ -18,6 +19,7 @@ Principles: `OOP`, `SOLID Principles`, `Design Patterns`
 
 ### **Web Development**  
 Languages: `HTML`, `CSS`, `JavaScript` 
+
 Frameworks & Tools: `Django`, `React`, `PostgreSQL`, `API Integration` 
 
 ### **Embedded Systems**
